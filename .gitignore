@@ -1,0 +1,7 @@
+.venv/
+data/
+__pycache__/
+src/config.py
+labelImg/
+# PyTorch model files
+*.pt
